@@ -1,0 +1,21 @@
+   1  mkdir aws_internship_test
+   2  cd aws_internship_test
+   3  type > role_making.tf
+   4  nano role_making.tf
+   5  type > assumerolepolicy.json
+   6  nano assumerolepolicy.json
+   7  ls
+   8  nano role_making.tf
+   9  nano role_making.tf
+  10  type > s3policy.json
+  11  nano s3policy.json
+  12  ls
+  13  nano role_making.tf
+  14  nano s3policy.json
+  15  ls
+  16  nano s3policy.json
+  17  nano policys3bucket.json
+  18  rm s3policy.json
+  19  ls
+  20  nano role_making.tf
+  109  history
